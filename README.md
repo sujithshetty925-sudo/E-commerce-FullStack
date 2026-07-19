@@ -8,48 +8,85 @@ Backend— a Spring Boot REST API that handles product, category, cart, order, a
 
 3.Features
  Home page with product listing and search
+ <br>
  Product details page
+  <br>
  Add to Cart / Buy Now
+  <br>
  Checkout page with demo payment flow
+  <br>
  Order success page and order history ("My Orders")
+  <br>
  User login/signup and profile page
+  <br>
  Admin-side product management (add, update, delete, view products and categories)
+  <br>
  Responsive navigation bar and footer, mobile-friendly UI
-
+  <br>
 4.Tech Stack
+ <br>
 Frontend
+ <br>
  React.js
+  <br>
  JavaScript 
+  <br>
  HTML5, CSS3
+  <br>
  Axios (API calls)
+  <br>
  React Router DOM
+  <br>
 
 Backend 
  Java 17
+  <br>
  Spring Boot
+  <br>
  Spring Data JPA / Hibernate
+  <br>
  MySQL
+  <br>
  RESTful API architecture
+  <br>
 
 5.Project Structure
+ <br>
 E-commerce-FullStack
+ <br>
 -Backend/src
+ <br>
   controller
+   <br>
   service
+   <br>
   repository
+   <br>
   entity
+   <br>
   dto
+   <br>
   exception
+   <br>
   security
+   <br>
   EcommerceApplication.java 
+   <br>
 
 -frontend/src
+ <br>
   components
+   <br>
   pages
+   <br>
   services
+   <br>
   assets
+   <br>
   App.js
+   <br>
   index.js
+   <br>
 
 6.API Endpoints 
  GET - /api/products -Get all products 
