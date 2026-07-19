@@ -51,14 +51,16 @@ E-commerce-FullStack
   App.js
   index.js
 
-
 6.API Endpoints 
  GET - /api/products -Get all products 
+ <br>
  GET -/api/products/{id} -Get product by ID 
+ <br>
  POST | /api/products | Create a new product 
+ <br>
  PUT | /api/products/{id} | Update a product 
+ <br>
  DELETE | /api/products/{id} | Delete a product 
-
 # 1. Clone the repository
 bash
 git clone https://github.com/sujithshetty925-sudo/E-commerce-FullStack.git
